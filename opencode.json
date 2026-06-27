@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "expenses-tracker": {
+      "type": "local",
+      "command": [
+        ".venv/bin/python",
+        "main.py"
+      ]
+    }
+  }
+}

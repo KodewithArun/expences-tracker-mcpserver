@@ -1,0 +1,9 @@
+[project]
+name = "expences-tracker-mcpserver"
+version = "0.1.0"
+description = "A personal finance MCP server — track expenses, income, and budgets via natural language using AI assistants"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=3.4.2",
+]
