@@ -3,7 +3,8 @@
   "mcp": {
     "simpleremoteserver": {
       "type": "remote",
-      "url": "http://0.0.0.0:8080/mcp"
+      "url": "https://modelcontextprotocal-arunpandeylaudari.onrender.com/mcp",
+      "timeout": 60000
     }
   }
 }
