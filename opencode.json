@@ -5,6 +5,10 @@
       "type": "remote",
       "url": "https://modelcontextprotocal-arunpandeylaudari.onrender.com/mcp",
       "timeout": 60000
+    },
+    "expense-tracker": {
+      "type": "local",
+      "command": ["uv", "run", "main.py"]
     }
   }
 }

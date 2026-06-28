@@ -19,3 +19,9 @@ Thumbs.db
 
 # Environment
 .env
+
+# Database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
